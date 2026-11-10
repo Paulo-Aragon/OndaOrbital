@@ -8,6 +8,8 @@ inimigos. Cada onda tem um tipo de inimigo com um padrão de movimento diferente
 **barra de energia** vai esvaziando com o tempo: se ela zerar antes de a onda acabar,
 o jogador perde uma vida.
 
+![Tela inicial do Onda Orbital](icone/print-tela-inicial.png)
+
 ## Como executar
 
 Requisito: **JDK 17 ou superior**.
