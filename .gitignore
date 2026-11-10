@@ -1,0 +1,10 @@
+out/
+bin/
+*.class
+.idea/
+*.iml
+.vscode/
+build/
+dist/
+*.lnk
+*.zip
